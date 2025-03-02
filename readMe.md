@@ -8,7 +8,7 @@ systeme d'authentification complet php avec integration d'une bas de donnée myS
 - [Demo](#Demo)
 - [Fonctionnalités](#fonctionnalités)
 - [Installation](#installation)
-- [Codeerreur](#code_d'erreur)
+- [Code d'erreur](#code_d'erreur)
 - [Contribuer](#contribuer)
 
 ## Aperçu
