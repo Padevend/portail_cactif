@@ -1,0 +1,58 @@
+/* installations des polices */
+@font-face {
+    font-family: ArialRounded;
+    src: url("../font/arlrdbd.ttf");
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'arial';
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    background: linear-gradient(to bottom right, #e6eefa, #fff);
+}
+
+body h1{
+    font-size: 70pt;
+    text-transform: uppercase;
+    font-family: ArialRounded;
+}
+body h1 span{
+    color: #a5c9ff;
+    font-family: ArialRounded;
+}
+body h2{
+    font-size: 14pt;
+    margin-top: 10px;
+    color: #cccccc;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+body h2 span{
+    color: #a5c9ff;
+}
+
+body a{
+    border: 2px solid #a5c9ff;
+    color: #a5c9ff;
+    background-color: none;
+    margin: 25px;
+    font-size: 17pt;
+    font-family: ArialRounded;
+    padding: 10px 40px;
+    border-radius: 50px;
+    transition: all 0.25s ease-in-out;
+}
+body a:hover{
+    color: #fff;
+    background: #a5c9ff;
+}
