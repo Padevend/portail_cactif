@@ -53,10 +53,10 @@ creation et connexion connexion d'un utilisateur sur une nouvelle session qui lu
 - Telecharger et installer xampp [telechargement de xampp](https://www.apachefriends.org/fr/download.html)
 - cloner ce depot dans le dossier htdocs de xampp souvent sous
 `C:\xampp\htdocs\`
-- lancer la panneau de control xampp
-[xampp control panel icon](/demo/control_icon.png)
-- lancer les module Apache et mySQL
-[xampp module](/demo/xampp_control_panel.png)
+- lancer la panneau de control xampp:
+![xampp control panel icon](/demo/control_icon.png)
+- lancer les module Apache et mySQL:
+![xampp module](/demo/xampp_control_panel.png)
 - aller a l'adresse `localhost` ou `127.0.0.1` dans votre navigateur
 - dans la barre de recherche effacer dashboard/ et remplacer par le nom du clone du depot
     
