@@ -16,7 +16,7 @@ creation et connexion connexion d'un utilisateur sur une nouvelle session qui lu
 ![Capture du syteme](/demo/board.png)
 
 ## Demo
-[Voir la vidéo de démonstration](/demo/demo.gif)
+![Voir la vidéo de démonstration](/demo/demo.mp4)
 
 ## Fonctionnalités
 
